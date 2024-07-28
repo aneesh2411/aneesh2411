@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Aneesh!
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+Developer;Master's+graduate+in+Software+Engineering++from+Arizona+State+University.;Currently+learning+Generative+AI." alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+Developer;Master's+graduate.;Currently+learning+Generative+AI." alt="Typing SVG" />
 </a>
 <br/>
 👩🏻‍💻 Software Engineer<br/>
