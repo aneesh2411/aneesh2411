@@ -17,12 +17,12 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/Django-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
-![LLM's](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![AWS](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Django](https://img.shields.io/badge/Django-%23007ACC.svg?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-E10098?style=for-the-badge&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%2338B2AC.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DB7093?style=for-the-badge&logo=tensorflow&logoColor=white)<br/>
+![LLM's](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=ai&logoColor=white)
+![AWS](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=AWS&logoColor=058a5e)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
