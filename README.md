@@ -21,8 +21,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E10098?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%2338B2AC.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DB7093?style=for-the-badge&logo=tensorflow&logoColor=white)<br/>
-![LLM's](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=ai&logoColor=white)
-![AWS](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=AWS&logoColor=058a5e)
+![LLM's](https://img.shields.io/badge/-LLM-%23C21325?style=for-the-badge&logo=ai&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-%23E5E5E5?style=for-the-badge&logo=AWS&logoColor=058a5e)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
